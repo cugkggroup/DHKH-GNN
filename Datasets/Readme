@@ -1,2 +1,3 @@
 
 The datasets employed in the paper "Dynamic Hypergraph Neural Networks based on Key Hyperedges".
+These five files are the datasets of Cora, Citeseer, Pubmed, LOS, SZ, respectively. Besides, the datasets of Wine, Cancer, and Digist are the classic datasets for machine learning, which have been included in the library of Python's sklearn datasets and can directly be obtained from the library.
